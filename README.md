@@ -1,5 +1,5 @@
 <details>
-<summary><h2 style="display:inline;">▶ Data Types, Conditional Stmts, Operators and Loops</h2></summary>
+<summary><h2 style="display:inline;">📚 Data Types, Conditional Stmts, Operators and Loops</h2></summary>
 <br>
 
 <p>Data types are important because they determine what kind of data you can store, how much memory it uses, and what range of values it can handle.</p>
@@ -28,7 +28,7 @@
 <hr>
 
 <details>
-<summary><h2 style="display:inline;">▶ Typecasting & Data Conversions</h2></summary>
+<summary><h2 style="display:inline;">📚 Typecasting & Data Conversions</h2></summary>
 <br>
 
 <p>In Java, <strong>Typecasting</strong> is the process of converting a value from one data type to another. Mastering both <strong>Implicit (Widening)</strong> and <strong>Explicit (Narrowing)</strong> conversions is essential for mathematical accuracy, preventing hidden logic bugs, and avoiding runtime errors.</p>
@@ -87,6 +87,30 @@
 
 <a href="./images/JavaLibraryFunctions.png" target="_blank">
   <img src="./images/JavaLibraryFunctions.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
+</a>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline;">📚 Java Arrays</h2></summary>
+<br>
+<p>Arrays are one of the most fundamental data structures in competitive coding. They allow you to store and efficiently access multiple values using an index.
+</p>
+*⚡ Fast Access — Elements can be accessed directly using an index in O(1) time.
+* 💾 Efficient Storage — Stores multiple values of the same data type in a structured manner.
+* 🔄 Easy Traversal — Useful for processing elements using loops.
+* 🧩 Foundation for Algorithms — Many problems involving searching, sorting, prefix sums, and two pointers use arrays.
+* 🚀 Better Performance — Arrays generally provide fast access and good memory efficiency.
+* 🎯 Useful in Many Problems — Commonly used for strings, matrices, frequency counting, and dynamic programming.
+
+- **Rule**: In competitive coding, understand indexing, traversal, searching, sorting, and common array techniques thoroughly.
+
+<h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
+
+<a href="./images/JavaArray.png" target="_blank">
+  <img src="./images/JavaArray.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
 </a>
 
 </details>
