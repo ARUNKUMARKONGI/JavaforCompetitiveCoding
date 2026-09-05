@@ -1,5 +1,4 @@
 # Java for Competitive Coding
-<details>
 <summary><h2>▶ Data Types Knowledge</h2></summary>
 
 In Java, selecting the right data type is a core skill for writing efficient and correct code. This becomes critical in **competitive coding** and **mathematical computations**, where performance limits and precise numerical boundaries determine whether your solution gets accepted.
@@ -20,7 +19,6 @@ In Java, selecting the right data type is a core skill for writing efficient and
   <br>
   <img src="./images/JavaDataTypes.png" alt="Java Data Types Summary Diagram" width="900"/>
   </details>
-</details>
 
 ---
 
