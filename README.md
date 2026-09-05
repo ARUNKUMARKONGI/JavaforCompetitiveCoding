@@ -1,4 +1,5 @@
-<details><summary><h2>Data Types Knowledge</h2></summary>
+<details>
+  <summary><h2>Data Types Knowledge</h2></summary>
 
 In Java, selecting the right data type is a core skill for writing efficient and correct code. This becomes critical in **competitive coding** and **mathematical computations**, where performance limits and precise numerical boundaries determine whether your solution gets accepted.
 
@@ -9,4 +10,5 @@ In Java, selecting the right data type is a core skill for writing efficient and
   Using `float` only provides ~6-7 decimal digits of precision, which leads to rounding errors in high-precision math problems. Using `double` provides 15-17 decimal digits. For financial or exact mathematical modeling, standard floating-point types fail entirely due to binary representation limits, requiring `BigDecimal` to prevent precision loss.
 ### Reference Diagram
 <img src="./images/JavaDataTypes.png" alt="Java Data Types Summary Diagram" width="900"/>
+
 </details>
