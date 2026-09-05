@@ -13,7 +13,7 @@
 <p>👉 <strong>Rule:</strong> In competitive coding, always check constraints before choosing a data type.</p>
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 <a href="./images/JavaDataTypes.png" target="_blank">
-  <img src="./images/JavaDataTypes.png" alt="Java Data Types Diagram" width="900"/>
+  <img src="./images/JavaDataTypes.png" alt="Java Data Types Diagram" style="max-width:100%; height:auto; display:block; margin:10px 0;"/>
 </a>
 </details>
 
@@ -43,7 +43,7 @@
 </ul>
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 <a href="./images/typecasting.png" target="_blank">
-  <img src="./images/typecasting.png" alt="Java Typecasting Diagram" width="900"/>
+  <img src="./images/typecasting.png" alt="Java Typecasting Diagram" style="max-width:100%; height:auto; display:block; margin:10px 0;"/>
 </a>
 </details>
 
@@ -68,7 +68,7 @@
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
 <a href="./images/JavaLibraryFunctions.png" target="_blank">
-  <img src="./images/JavaLibraryFunctions.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
+  <img src="./images/JavaLibraryFunctions.png" alt="Java Built-in Libraries and Methods Cheat Sheet" style="max-width:100%; height:auto; display:block; margin:10px 0;"/>
 </a>
 
 </details>
@@ -98,7 +98,7 @@
 ---
 
 <a href="./images/JavaArray.png" target="_blank">
-  <img src="./images/JavaArray.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
+  <img src="./images/JavaArray.png" alt="Java Typecasting Diagram" style="max-width:100%; height:auto; display:block; margin:10px 0;"/>
 </a>
 
 </details>
