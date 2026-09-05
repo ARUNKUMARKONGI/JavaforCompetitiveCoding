@@ -1,5 +1,6 @@
 <details>
 <summary><h2 style="display:inline;">📚 Data Types, Conditional Stmts, Operators and Loops</h2></summary>
+
 <p>Data types are important because they determine what kind of data you can store, how much memory it uses, and what range of values it can handle.</p>
 <p>For competitive coding, choosing the correct data type helps you:</p>
 <ul style="margin-top:0; margin-bottom:12px; padding-left:20px;">
@@ -98,6 +99,7 @@
 <br>
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
+---
 
 <a href="./images/JavaArray.png" target="_blank">
   <img src="./images/JavaArray.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
