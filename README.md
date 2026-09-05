@@ -7,7 +7,7 @@ For competitive coding, choosing the correct data type helps you:
 * 🧩 Match the problem constraints — choose based on the maximum possible input/value.
 
 Example: If a problem says n ≤ 10^9, int may be enough, but calculations like n × n can reach 10^18, so long is safer.
-Rule: In competitive coding, always check the constraints before choosing a data type.
+**Rule**: In competitive coding, always check the constraints before choosing a data type.
 <details>
   <summary><b>▶ Click to view more</b></summary>
   <br>
