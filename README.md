@@ -1,6 +1,7 @@
 ## Data Types, Conditional stmts, Operators and Loops 
 
 <details>
+  
 Data types are important because they determine what kind of data you can store, how much memory it uses, and what range of values it can handle.
 For competitive coding, choosing the correct data type helps you:
 * ⚡ Avoid overflow — e.g., use long for very large numbers.
