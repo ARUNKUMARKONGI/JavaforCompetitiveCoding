@@ -99,7 +99,7 @@
 <p>Arrays are one of the most fundamental data structures in competitive coding. They allow you to store and efficiently access multiple values using an index.
 </p>
   
-*⚡ Fast Access — Elements can be accessed directly using an index in O(1) time.
+* ⚡ Fast Access — Elements can be accessed directly using an index in O(1) time.
 * 💾 Efficient Storage — Stores multiple values of the same data type in a structured manner.
 * 🔄 Easy Traversal — Useful for processing elements using loops.
 * 🧩 Foundation for Algorithms — Many problems involving searching, sorting, prefix sums, and two pointers use arrays.
@@ -108,7 +108,7 @@
 
 - **Rule**: In competitive coding, understand indexing, traversal, searching, sorting, and common array techniques thoroughly.
 
-<h4>Reference Diagram <em>(Click image to view/download full resolution)</em></h4>
+<h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
 <a href="./images/JavaArray.png" target="_blank">
   <img src="./images/JavaArray.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
