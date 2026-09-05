@@ -14,10 +14,12 @@ In Java, selecting the right data type is a core skill for writing efficient and
 
 * **Bitwise Operations & Optimization:**
   Low-level mathematical optimizations—like checking if a number is even/odd, subset generation, or fast exponentiation—rely heavily on bit manipulation (`&`, `|`, `^`, `<<`, `>>`).
-  
+
+  <details>
   <summary><b>▶ Click to view Data Types CheatSheet for Competitive Coding</b></summary>
   <br>
   <img src="./images/JavaDataTypes.png" alt="Java Data Types Summary Diagram" width="900"/>
+  </details>
 </details>
 
 ---
