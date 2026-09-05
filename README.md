@@ -34,13 +34,11 @@
 <p>In Java, <strong>Typecasting</strong> is the process of converting a value from one data type to another. Mastering both <strong>Implicit (Widening)</strong> and <strong>Explicit (Narrowing)</strong> conversions is essential for mathematical accuracy, preventing hidden logic bugs, and avoiding runtime errors.</p>
 
 <h3>Why Data Conversions Matter in Competitive Coding & Math</h3>
-
 <ul>
   <li>
     <strong>Preventing Loss of Precision in Integer Division:</strong><br>
     In Java, dividing two integers always yields an integer (e.g., <code>5 / 2</code> evaluates to <code>2</code>, not <code>2.5</code>). In competitive programming math problems (like computing averages or probabilities), failing to cast at least one operand to <code>double</code> (e.g., <code>(double) 5 / 2</code>) causes truncation errors.
   </li>
-  <br>
   <li>
     <strong>Avoiding Intermediate Overflow During Arithmetic:</strong><br>
     When multiplying two large <code>int</code> values, the result is calculated as an <code>int</code> <em>before</em> being assigned to a destination variable. If the product exceeds 2 × 10⁹, it silently overflows into a negative value—even if assigned to a <code>long</code>.
@@ -49,16 +47,12 @@
       <li>✅ <strong>Correct:</strong> <code>long total = (long) a * b;</code> <em>(forces 64-bit precision)</em></li>
     </ul>
   </li>
-  <br>
   <li>
     <strong>Safe Downcasting & Range Truncation:</strong><br>
     Explicitly casting a larger type to a smaller type (e.g., <code>long</code> to <code>int</code>) clips high-order bits via modulo arithmetic. While useful in bitwise optimizations, unintended narrowing leads to unexpected negative numbers.
   </li>
 </ul>
-
-<br>
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
-
 <a href="./images/typecasting.png" target="_blank">
   <img src="./images/typecasting.png" alt="Java Typecasting Diagram" width="900"/>
 </a>
@@ -72,7 +66,6 @@
 <br>
 
 <p>Java library functions provide pre-built, optimized methods for common tasks, allowing you to solve problems faster and write cleaner code.</p>
-
 <ul>
   <li>⚡ <strong>Save Time</strong> — Avoid implementing common operations from scratch.</li>
   <li>🧩 <strong>Simplify Code</strong> — Functions like <code>sort()</code>, <code>max()</code>, <code>min()</code>, and <code>binarySearch()</code> reduce complexity.</li>
@@ -81,7 +74,6 @@
   <li>📚 <strong>Useful Data Structures</strong> — Includes <code>Math</code>, <code>String</code>, <code>Character</code>, <code>Arrays</code>, <code>ArrayList</code>, <code>HashMap</code>, <code>HashSet</code>, etc.</li>
   <li>🎯 <strong>Competitive Advantage</strong> — Allows you to focus on core algorithms rather than low-level implementations.</li>
 </ul>
-
 <p>👉 <strong>Rule:</strong> In competitive coding, know commonly used Java library functions and their asymptotic time complexities.</p>
 
 
@@ -115,7 +107,6 @@
 <br>
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
-<h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
 <a href="./images/JavaArray.png" target="_blank">
   <img src="./images/JavaArray.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
