@@ -1,2 +1,3 @@
-# Java for Competitive Coding Most Important Basics
+# Java for Competitive Coding
+##Data Types knowledge
 ![Java Data Types](./images/JavaDataTypes.png)
