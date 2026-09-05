@@ -39,7 +39,7 @@
       <li>✅ <strong>Correct:</strong> <code>long total = (long) a * b;</code> <em>(forces 64-bit precision)</em></li>
     </ul>
   </li>
-  <li>
+  <li><br>
     <strong>Safe Downcasting & Range Truncation:</strong><br>
     Explicitly casting a larger type to a smaller type (e.g., <code>long</code> to <code>int</code>) clips high-order bits via modulo arithmetic. While useful in bitwise optimizations, unintended narrowing leads to unexpected negative numbers.
   </li>
