@@ -14,14 +14,12 @@ Example: If a problem says n ≤ 10^9, int may be enough, but calculations like 
   <img src="./images/JavaDataTypes.png" alt="Java Data Types Diagram" width="900"/>
 </details>
 
+---
 
-## Type Casting and Importance of type conversions
 <details>
 <summary><h2>▶ Typecasting & Data Conversions</h2></summary>
 
-In Java, **Typecasting** is the process of converting a value from one data type to another. Mastering both **Implicit (Widening)** and **Explicit (Narrowing)** conversions is essential for mathematical accuracy, preventing hidden logic bugs, and avoiding runtime errors in performance-critical applications.
-
----
+In Java, **Typecasting** is the process of converting a value from one data type to another. Mastering both **Implicit (Widening)** and **Explicit (Narrowing)** conversions is essential for mathematical accuracy, preventing hidden logic bugs, and avoiding runtime errors.
 
 ### Why Data Conversions Matter in Competitive Coding & Math
 
@@ -35,7 +33,6 @@ In Java, **Typecasting** is the process of converting a value from one data type
 
 * **Safe Downcasting & Range Truncation:**
   Explicitly casting a larger type to a smaller type (e.g., `long` to `int` or `int` to `byte`) clips the high-order bits via **modulo arithmetic** ($2^{\text{bits}}$). While useful in low-level hashing algorithms or bitwise optimizations, unintended narrowing can lead to negative or unpredictable numbers.
-
 
 ---
 
