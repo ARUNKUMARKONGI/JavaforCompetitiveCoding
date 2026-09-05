@@ -1,28 +1,19 @@
 <details>
 <summary><h2 style="display:inline;">📚 Data Types, Conditional Stmts, Operators and Loops</h2></summary>
-<br>
-
 <p>Data types are important because they determine what kind of data you can store, how much memory it uses, and what range of values it can handle.</p>
-
 <p>For competitive coding, choosing the correct data type helps you:</p>
-
-<ul>
-  <li>⚡ <strong>Avoid overflow</strong> — e.g., use <code>long</code> for very large numbers.</li>
-  <li>💾 <strong>Manage memory efficiently</strong> — important for large arrays.</li>
-  <li>🎯 <strong>Get correct results</strong> — especially in integer division and arithmetic.</li>
-  <li>🧩 <strong>Match problem constraints</strong> — choose based on the maximum possible input value.</li>
+<ul style="margin-top:0; margin-bottom:12px; padding-left:20px;">
+  <li style="margin-bottom:4px;">⚡ <strong>Avoid overflow</strong> — e.g., use <code>long</code> for very large numbers.</li>
+  <li style="margin-bottom:4px;">💾 <strong>Manage memory efficiently</strong> — important for large arrays.</li>
+  <li style="margin-bottom:4px;">🎯 <strong>Get correct results</strong> — especially in integer division and arithmetic.</li>
+  <li style="margin-bottom:4px;">🧩 <strong>Match problem constraints</strong> — choose based on the maximum possible input value.</li>
 </ul>
-
 <p><strong>Example:</strong> If a problem says <em>n ≤ 10⁹</em>, <code>int</code> may be enough, but calculations like <em>n × n</em> can reach <em>10¹⁸</em>, so <code>long</code> is safer.</p>
-
 <p>👉 <strong>Rule:</strong> In competitive coding, always check constraints before choosing a data type.</p>
-
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
-
 <a href="./images/JavaDataTypes.png" target="_blank">
-  <img src="./images/JavaDataTypes.png" alt="Java Data Types Diagram" width="900"/>
+  <img src="./images/JavaDataTypes.png" alt="Java Data Types Diagram" width="900"/>
 </a>
-
 </details>
 
 <hr>
