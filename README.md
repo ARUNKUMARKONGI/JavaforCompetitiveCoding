@@ -16,7 +16,6 @@
 
 <p>👉 <strong>Rule:</strong> In competitive coding, always check constraints before choosing a data type.</p>
 
-<br>
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
 <a href="./images/JavaDataTypes.png" target="_blank">
