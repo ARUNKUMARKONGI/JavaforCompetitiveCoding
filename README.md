@@ -71,7 +71,7 @@
 <summary><h2 style="display:inline;">📚 Java Important Library Functions (Math, Strings, Arrays & Collections)</h2></summary>
 <br>
 
-<p>Java library functions provide pre-built, optimized methods for common tasks, allowing you to solve problems faster and write cleaner code.
+<p>Java library functions provide pre-built, optimized methods for common tasks, allowing you to solve problems faster and write cleaner code.</p>
 
 * ⚡ Save Time — Avoid implementing common operations from scratch.
 * 🧩 Simplify Code — Functions like sort(), max(), min(), and binarySearch() reduce code complexity.
@@ -98,6 +98,7 @@
 <br>
 <p>Arrays are one of the most fundamental data structures in competitive coding. They allow you to store and efficiently access multiple values using an index.
 </p>
+  
 *⚡ Fast Access — Elements can be accessed directly using an index in O(1) time.
 * 💾 Efficient Storage — Stores multiple values of the same data type in a structured manner.
 * 🔄 Easy Traversal — Useful for processing elements using loops.
@@ -107,7 +108,7 @@
 
 - **Rule**: In competitive coding, understand indexing, traversal, searching, sorting, and common array techniques thoroughly.
 
-<h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
+<h4>Reference Diagram <em>(Click image to view/download full resolution)</em></h4>
 
 <a href="./images/JavaArray.png" target="_blank">
   <img src="./images/JavaArray.png" alt="Java Built-in Libraries and Methods Cheat Sheet" width="900"/>
