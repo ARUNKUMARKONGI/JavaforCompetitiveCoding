@@ -5,6 +5,7 @@
 <p>Data types are important because they determine what kind of data you can store, how much memory it uses, and what range of values it can handle.</p>
 
 <p>For competitive coding, choosing the correct data type helps you:</p>
+
 <ul>
   <li>⚡ <strong>Avoid overflow</strong> — e.g., use <code>long</code> for very large numbers.</li>
   <li>💾 <strong>Manage memory efficiently</strong> — important for large arrays.</li>
