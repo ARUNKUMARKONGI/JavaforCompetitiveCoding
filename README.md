@@ -1,6 +1,6 @@
 <details>
 <summary><h2 style="display:inline;">📚 Data Types, Conditional Stmts, Operators and Loops</h2></summary>
-
+  <br>
 <p>Data types are important because they determine what kind of data you can store, how much memory it uses, and what range of values it can handle.</p>
 <p>For competitive coding, choosing the correct data type helps you:</p>
 <ul style="margin-top:0; margin-bottom:12px; padding-left:20px;">
