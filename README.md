@@ -1,2 +1,2 @@
 # Java for Competitive Coding Most Important Basics
-![Java Data Types](./images/JavaDataTypes.png)
+<img src="./images/JavaDataTypes.png" alt="Java Data Types" width="500"/>
