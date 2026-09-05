@@ -73,14 +73,16 @@
 
 <p>Java library functions provide pre-built, optimized methods for common tasks, allowing you to solve problems faster and write cleaner code.</p>
 
-* ⚡ Save Time — Avoid implementing common operations from scratch.
-* 🧩 Simplify Code — Functions like sort(), max(), min(), and binarySearch() reduce code complexity.
-* 🚀 Improve Efficiency — Many library methods are well-tested and optimized.
-* 🛠️ Reduce Bugs — Using reliable built-in methods minimizes implementation errors.
-* 📚 Useful Data Structures — Java provides Math, String, Character, Arrays, ArrayList, HashMap, HashSet etc based library functions.
-* 🎯 Competitive Advantage — Knowing the Java library well helps you focus on the algorithm and problem-solving logic rather than basic implementation.
+<ul>
+  <li>⚡ <strong>Save Time</strong> — Avoid implementing common operations from scratch.</li>
+  <li>🧩 <strong>Simplify Code</strong> — Functions like <code>sort()</code>, <code>max()</code>, <code>min()</code>, and <code>binarySearch()</code> reduce complexity.</li>
+  <li>🚀 <strong>Improve Efficiency</strong> — Built-in library methods are well-tested and highly optimized.</li>
+  <li>🛠️ <strong>Reduce Bugs</strong> — Using reliable built-in methods minimizes implementation errors.</li>
+  <li>📚 <strong>Useful Data Structures</strong> — Includes <code>Math</code>, <code>String</code>, <code>Character</code>, <code>Arrays</code>, <code>ArrayList</code>, <code>HashMap</code>, <code>HashSet</code>, etc.</li>
+  <li>🎯 <strong>Competitive Advantage</strong> — Allows you to focus on core algorithms rather than low-level implementations.</li>
+</ul>
 
-- **Rule**: In competitive coding, know the commonly used Java library functions and their time complexities. 
+<p>👉 <strong>Rule:</strong> In competitive coding, know commonly used Java library functions and their asymptotic time complexities.</p>
 
 
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
@@ -99,14 +101,19 @@
 <p>Arrays are one of the most fundamental data structures in competitive coding. They allow you to store and efficiently access multiple values using an index.
 </p>
   
-* ⚡ Fast Access — Elements can be accessed directly using an index in O(1) time.
-* 💾 Efficient Storage — Stores multiple values of the same data type in a structured manner.
-* 🔄 Easy Traversal — Useful for processing elements using loops.
-* 🧩 Foundation for Algorithms — Many problems involving searching, sorting, prefix sums, and two pointers use arrays.
-* 🚀 Better Performance — Arrays generally provide fast access and good memory efficiency.
-* 🎯 Useful in Many Problems — Commonly used for strings, matrices, frequency counting, and dynamic programming.
+<ul>
+  <li>⚡ <strong>Fast Access</strong> — Elements can be accessed directly using an index in <code>O(1)</code> time.</li>
+  <li>💾 <strong>Efficient Storage</strong> — Stores multiple values of the same data type in contiguous memory locations.</li>
+  <li>🔄 <strong>Easy Traversal</strong> — Ideal for processing sequential data using standard loops.</li>
+  <li>🧩 <strong>Foundation for Algorithms</strong> — Search, sort, prefix sums, and two pointers rely heavily on arrays.</li>
+  <li>🚀 <strong>Better Performance</strong> — Arrays provide predictable memory layout and fast cache access.</li>
+  <li>🎯 <strong>Versatile Application</strong> — Commonly used for strings, matrices, frequency counting, and dynamic programming.</li>
+</ul>
 
-- **Rule**: In competitive coding, understand indexing, traversal, searching, sorting, and common array techniques thoroughly.
+<p>👉 <strong>Rule:</strong> In competitive coding, master array indexing, traversal, searching, sorting, and common multi-pointer techniques thoroughly.</p>
+
+<br>
+<h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
 <h3>Reference Diagram <em>(Click image to view/download full resolution)</em></h3>
 
