@@ -21,6 +21,7 @@
 
 <details>
 <summary><h2 style="display:inline;">📚 Typecasting & Data Conversions</h2></summary>
+  <br>
 <p>In Java, <strong>Typecasting</strong> is the process of converting a value from one data type to another. Mastering both <strong>Implicit (Widening)</strong> and <strong>Explicit (Narrowing)</strong> conversions is essential for mathematical accuracy, preventing hidden logic bugs, and avoiding runtime errors.</p>
 <h3>Why Data Conversions Matter in Competitive Coding & Math</h3>
 <ul style="margin-top:0; margin-bottom:12px; padding-left:20px;">
