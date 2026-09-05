@@ -1,3 +1,3 @@
 # Java for Competitive Coding
-##Data Types knowledge
+## Data Types knowledge
 ![Java Data Types](./images/JavaDataTypes.png)
